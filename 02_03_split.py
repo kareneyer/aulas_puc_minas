@@ -6,7 +6,7 @@ def split_and_join(line):
     return result
 
 def funcao_maceteada(line):
-    return line.replace(' ','-')
+    return line.replace(' ','-') 
 
 if __name__ == '__main__':
     print("Digite uma frase: ")
